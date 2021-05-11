@@ -1,0 +1,94 @@
+.img-logo{
+    height: 120px;
+    width: 120px;
+}
+.navbar2{
+    display: inline-block;
+    width: auto;
+    margin: 0px 10px;
+    color: #D7D3D2;
+}
+.navbar2 a{
+    text-decoration: none;
+    
+}
+.img-semilla{
+    height: 400px;
+    background-image: url('../img/semilla.jpg');
+    background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.img-metodologia{
+    width: 819.38px;
+    height: 600px;
+}
+.img-nopadding{
+    padding: 0px;
+    height: 600px;
+}
+.fondo-verde{
+    height: 600px;
+    background-image: url('../img/fondo.jpg');
+}
+.logo-metodologia{
+    position: relative;
+    bottom: 483px;
+    left: 373px;
+    height: 70px;
+}
+#parrafo-metodologia{
+    position: relative;
+    bottom: 430px;
+    left: 149px;
+    color: white;
+    text-align: center;
+    width: 500px;
+}
+#titulo-metodologia{
+    position: relative;
+    bottom: 450px;
+    left: 159px;
+    color: white;
+    text-align: center;
+    width: 500px;
+}
+.img-proyecto{
+    height: 380px;
+    width: 650px;
+}
+.circulo{
+    border-radius: 150px;
+}
+.icons-rd{
+    height: 40px;
+    width: 40px;
+    margin-left: 5px;
+}
+.fondo2{
+    background-size: 100%;
+    height: 600px;
+    background-image: url('../img/fondo2.jpg');
+}
+.icons-slicer{
+    height: 50px;
+    width: 50px;
+}
+.img-blog{
+    height: 250px;
+    width: 300px;
+}
+.fz{
+    font-size: 20px;
+}
+.blog{
+    position: relative;
+    top: 50px;
+}
+.altura{
+    height: 430px;
+}
+.recuadro{
+    border: 1px solid white;
+    height: 320px;
+}
