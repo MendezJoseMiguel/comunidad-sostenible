@@ -44,4 +44,4 @@
    44  git add .
    45  git status
    46  git commit -m"Correccion de color en texto proyecto 3"
-   47  history|tail -n50> commands.txt
+   47  history|tail -n50> commands.txt muy util
